@@ -19,7 +19,7 @@
 ***
 
 ## [Discord Server 😎](https://discord.gg/fXWzuD8Q5M) | [Website](https://discordbotlist.com/bots/musify-3890)
-<a href="https://discord.gg/fXWzuD8Q5M"><img src="https://discord.com/api/guilds/848897059842293760/widget.png?style=banner2"></a>
+<a href="https://discord.gg/fXWzuD8Q5M"><img src="https://discord.com/api/guilds/848897059842293760/widget.png"></a>
 
 ***
 
